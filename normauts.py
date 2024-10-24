@@ -62,7 +62,3 @@ if st.button("Data"):
 # Keterangan dan instruksi
 st.caption("Lingkaran dengan ukuran dan warna acak dan tersebar didalam lingkaran dengan radius 1")
 st.divider()
-st.text("Buat website seperti di atas dengan menggunakan GitHub dan Streamlit.")
-st.text("Kirim video saat website dijalankan.")
-st.text("Pastikan nama dan alamat website terlihat.")
-st.divider()
